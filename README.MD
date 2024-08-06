@@ -50,7 +50,7 @@ A Node.js application for downloading videos from various social media platforms
    ```
    YT_DLP_PATH=/opt/homebrew/bin/yt-dlp
 
-   For more info check yt-dlp
+   python3 -m pip install -U yt-dlp (if not already installed)
    ```
 
 2. Update `YT_DLP_PATH` with the appropriate path of yt-dlp.
